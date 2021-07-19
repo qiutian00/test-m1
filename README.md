@@ -9,9 +9,9 @@ test mac m1 compare with window base intel x64.
 
 ### [vite v2.4.2](https://github.com/vitejs/vite) yarn run build
 
-- mac: 29.27s
+- mac: 29.27s, 27.98s, 26.90s, 26.66s
 
-- windows: 66.46s , 67.26s,  69.12s, 75.3s
+- windows: 66.46s, 67.26s,  69.12s, 75.3s
 
 ### [react v17.0.2](https://github.com/facebook/react) yarn run build
 
@@ -21,7 +21,7 @@ test mac m1 compare with window base intel x64.
 
 ### [vue-next v3.2.0-beta.1](https://github.com/vuejs/vue-next) yarn run build
 
-- mac: -
+- mac: build failed
 
 - windows: 109.14s, 23.77s,  23.67s, 29.62s, 52.66s, 24.65s
 
