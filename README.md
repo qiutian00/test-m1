@@ -1,6 +1,6 @@
 # test-m1
 
-test mac m1 compare with window base intel x64.
+test mac m1 compare with window base intel x64 on nodejs.
 
 ## envirnoment
 
