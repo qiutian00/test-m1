@@ -4,7 +4,7 @@ test mac m1 compare with window base intel x64.
 
 ## envirnoment
 
-- mac: `mac air m1 2020 16G + 500G ssd;  node v16.5.0(support m1 chip)`
+- mac: `mac air m1 2020 16G + 500G ssd;  node v16.5.0(support m1 chip)` 449.04 not used
 - windows: `HUAWEI MateBook D 14 AMD Ryzen 5 4500U 16G + 350G ssd; node v14.7.0`
 
 ### [vite v2.4.2](https://github.com/vitejs/vite) yarn run build
